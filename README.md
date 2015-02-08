@@ -12,3 +12,5 @@ Use the class `flex` on the parent element you would like to apply flexbox layou
 * `flex vertical` applies flexbox with vertical layout
 * `flex horizontal reverse` applies flexbox with horizontal layout reversed
 * `flex vertical reverse` applies flexbox with vertical layout reversed
+
+View the full documentation at [https://richiksc.github.io/flex-css](https://richiksc.github.io/flex-css/)
